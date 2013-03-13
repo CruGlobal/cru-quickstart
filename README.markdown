@@ -2,6 +2,7 @@
 
 Get started quickly using our most cutting edge stack!
 
+* Maven
 * JBoss AS 7
 * Arquillian
 * TestNG
